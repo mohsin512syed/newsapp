@@ -1,0 +1,150 @@
+
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+      {
+        "source": {
+          "id": "msnbc",
+          "name": "MSNBC"
+        },
+        "author": "Alicia Menendez",
+        "title": "Biden’s State of the Union address focused on America’s biggest health risk",
+        "description": "This year’s State of the Union address effectively doubled as a campaign launch for President Joe Biden as he sought to highlight the risks of a second term for Donald Trump.",
+        "url": "https://www.msnbc.com/opinion/msnbc-opinion/biden-state-of-the-union-health-care-rcna142354",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240307-Joe-Biden-SOTU-ch-2159-a547cb.jpg",
+        "publishedAt": "2024-03-08T11:00:00Z",
+        "content": "This years State of the Union address effectively doubled as a campaign launch for President Joe Biden as he sought to highlight the risks of a second term for Donald Trump.\r\nSpeaking a day and a hal… [+6924 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Biden team, UnitedHealth struggle to restore paralyzed billing systems after cyberattack",
+        "description": "The cyberattack on a unit of UnitedHeath Group's Optum division has left providers struggling to get paid for care.",
+        "url": "https://www.cbsnews.com/news/change-optum-healthcare-billing-cyberattack-biden-administration-unitedhealth-response/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/22/e5d5718e-1a29-4db7-b25f-3bc4281edea1/thumbnail/1200x630/5e9afcee571f54d9e273fd8803549d9d/gettyimages-1230799550.jpg?v=1aa56f6681ae17ea762db96c4c7bc003",
+        "publishedAt": "2024-03-08T10:00:04+00:00",
+        "content": "Margaret Parsons, one of three dermatologists at a 20-person practice in Sacramento, California, is in a bind.\r\nSince a Feb. 21 cyberattack on a previously obscure medical payment processing company,… [+10900 chars]"
+      },
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "This disease is spiking in an Ontario city.  But there's a vaccine — if you can afford it | CBC News",
+        "description": "Can you put a price on protecting your children from a potentially deadly meningitis-causing bacteria? It's about $320, unless you happen to have private insurance that covers a vaccine recommended by public health officials in Kingston, Ont. — one of a handf…",
+        "url": "http://www.cbc.ca/news/health/meningitis-vaccine-kids-1.7135194",
+        "urlToImage": "https://i.cbc.ca/1.7135224.1709736615!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/tph-school-vax-clinic.jpg",
+        "publishedAt": "2024-03-08T09:07:28.550024Z",
+        "content": "Can you put a price on protecting your children from a potentially deadly meningitis-causing bacterial infection?\r\nRight now, it's about $320 per child, unless you happen to have private insurance, f… [+5367 chars]"
+      },
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": null,
+        "title": "AFL legend reveals shock cancer diagnosis",
+        "description": "AFL Hall of Famer Robert Walls has opened up about his harrowing health battle that at one stage left him with just weeks to live.",
+        "url": "https://www.news.com.au/sport/afl/afl-great-robert-walls-reveals-his-ongoing-battle-with-a-rare-cancer/news-story/4f6b88f090aeeb1e854236e2c9e58da0",
+        "urlToImage": "https://content.api.news/v3/images/bin/c6dfdc5f764237e68eb21e722c7b0497",
+        "publishedAt": "2024-03-08T07:36:00Z",
+        "content": "AFL Hall of Famer Robert Walls has opened up about his harrowing health battle that at one stage left him with just weeks to live.\r\nThe 73-year-old won premierships as a player and coach with Carlton… [+3484 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "PAUL WISEMAN",
+        "title": "US jobs report for February is likely to show that hiring remains solid but slower",
+        "description": "WASHINGTON (AP) — The nation's economy likely produced another month of healthy hiring in February, once again brushing aside the effects of high interest rates with unexpected ease.When the Labor Department issues the monthly jobs report Friday, economists p…",
+        "url": "https://apnews.com/96162ff805670eb19a44cdf67fa20e3e",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/17c144e9165b4445bb17585dd9a73564/3000.jpeg",
+        "publishedAt": "2024-03-08T05:01:25Z",
+        "content": "WASHINGTON (AP) — The nation's economy likely produced another month of healthy hiring in February, once again brushing aside the effects of high interest rates with unexpected ease.When the Labor De… [+4790 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Alastair McCready",
+        "title": "Israel’s war on Gaza live: 60,000 pregnant women face malnutrition in Gaza",
+        "description": "Gaza Health Ministry says Israeli attacks have killed 9,000 women as world celebrates achievements of women.",
+        "url": "https://www.aljazeera.com/news/liveblog/2024/3/8/israels-war-on-gaza-live-60000-pregnant-women-face-malnutrition-in-gaza",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240306__34KW8JX__v2__Preview__PalestinianIsraelConflict-1709802614.jpg?resize=1200%2C630",
+        "publishedAt": "2024-03-08T00:05:03Z",
+        "content": "blinking-dot\r\nLive updatesLive updates, \r\nGaza Health Ministry says Israeli attacks have killed 9,000 women as world celebrates achievements of women."
+      },
+      {
+        "source": {
+          "id": "medical-news-today",
+          "name": "Medical News Today"
+        },
+        "author": "Elizabeth Pratt",
+        "title": "FDA allowing labels that claim yogurt can help reduce type 2 diabetes risk",
+        "description": "Federal regulators are allowing companies to put health claims on yogurt products saying they can help reduce the risk of type 2 diabetes. Not all experts agree with the decision.",
+        "url": "https://www.medicalnewstoday.com/articles/fda-allowing-labels-that-claim-yogurt-can-help-reduce-type-2-diabetes-risk",
+        "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/03/frozen-yogurt-glasses-732x549-thumbnail.jpg",
+        "publishedAt": "2024-03-07T12:07:00Z",
+        "content": "<ul><li>Federal regulators are allowing yogurt manufacturers to make limited claims on their packaging that state that yogurt may help reduce the risk of type 2 diabetes. </li><li>The officials say q… [+6697 chars]"
+      },
+      {
+        "source": {
+          "id": "medical-news-today",
+          "name": "Medical News Today"
+        },
+        "author": "Kaitlin Vogel",
+        "title": "Drinking 2 servings of sugary drinks like soda per week may harm heart health",
+        "description": "",
+        "url": "https://www.medicalnewstoday.com/articles/drinking-2-servings-sugary-drinks-soda-per-week-may-harm-heart-health",
+        "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/03/soda-cardiovascular-Stocksy_txpd0b09ff6tlt300_Medium_1363556-Thumb.jpg",
+        "publishedAt": "2024-03-07T09:47:00Z",
+        "content": "<ul><li>A new study indicates that drinking just two servings per week of sugar-sweetened beverages like soda can erase the heart health benefits of physical activity.</li><li>Excess sugar can lead t… [+6415 chars]"
+      },
+      {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Jennifer Bray",
+        "title": "Abortion rules should be relaxed, review to recommend",
+        "description": "Minister for Health Stephen Donnelly considering report by barrister Marie O’Shea which examined operation of the existing law",
+        "url": "https://www.irishtimes.com/ireland/social-affairs/2023/03/29/review-calls-for-abortion-law-to-be-relaxed/",
+        "urlToImage": "https://www.irishtimes.com/resizer/DycgF-s39PfaIVo4cOhhhNhDjqM=/1200x630/filters:format(jpg):quality(70):focal(1109x649:1119x659)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YVVSZCLNN6CW4NWJKGEPUSEAPE.jpg",
+        "publishedAt": "2023-03-29T04:15:00Z",
+        "content": "A new review of the States abortion law is set to recommend a loosening of existing rules which could involve the removal of the three-day wait to access medication.\r\nMinister for Health Stephen Donn… [+2934 chars]"
+      },
+      {
+        "source": {
+          "id": "the-globe-and-mail",
+          "name": "The Globe And Mail"
+        },
+        "author": "Wency Leung",
+        "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+        "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+        "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+        "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+        "publishedAt": "2022-06-15T17:00:00Z",
+        "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "Will Goodbody",
+        "title": "Efforts continue to assess extent of ransomware issue",
+        "description": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services here.",
+        "url": "https://www.rte.ie/news/coronavirus/2021/0515/1221735-hse-cyber-atack/",
+        "urlToImage": "https://img.rasset.ie/0016bdc3-1600.jpg",
+        "publishedAt": "2021-05-15T06:18:56Z",
+        "content": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services.\r\nThe HSE has said it will take a number of days before i… [+1264 chars]"
+      }
+    ]
+  }
